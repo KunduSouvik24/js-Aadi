@@ -10,5 +10,6 @@ accountCity = "Kolkata"
 accountCity = "Bengaluru"
 
 console.log(accountId);
+console.log(accountEmail);
 
 console.table([accountId, accountEmail,accountPassword,accountCity])
