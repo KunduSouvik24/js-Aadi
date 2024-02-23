@@ -20,7 +20,7 @@ let isLoggedIn = false
    undefined => 
    symbol => unique
 
-   object
+   object t
 */
 
 console.log(typeof age);
