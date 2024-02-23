@@ -12,6 +12,8 @@ accountCity = "Bengaluru"
 console.log(accountId);
 console.log(accountEmail);
 
+// Souvik Kundu
+
 /*
 prefer not to use var 
 because of issue in block and functional scope
